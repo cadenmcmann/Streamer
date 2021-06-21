@@ -1,0 +1,30 @@
+{
+  "streams": [
+    {
+      "Title": "My stream",
+      "Description": "This is a great stream",
+      "id": 1
+    },
+    {
+      "Title": "Another stream",
+      "Description": "Again, a great stream we have here",
+      "id": 2
+    },
+    {
+      "Title": "PATCH STREAM",
+      "Description": "YA DIGGGGGG",
+      "id": 4
+    },
+    {
+      "Title": "This is now a stream about refactoring",
+      "Description": "Watching this, you'll see I edited the stream very well ",
+      "id": 6
+    },
+    {
+      "Title": "This stream will be deleted",
+      "Description": "Yes, don't get too comfortable ",
+      "userId": "109758912477674338736",
+      "id": 7
+    }
+  ]
+}
